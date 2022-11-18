@@ -106,10 +106,10 @@ main::after {
 .social > div:hover {
     transform: translateY(-5px);
 }
-/* .btn:hover {
+.btn:hover {
     color: #fff;
-    background: transparent;
-} */
+    background: rgba(185, 43, 214, 0.9);
+} 
 @keyframes slideRight {
     0% {
         opacity: 0;
