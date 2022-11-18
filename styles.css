@@ -92,9 +92,6 @@ main::after {
     font-size: 20px;
     padding: 5px;
 }
-.fa-brands:hover {
-    color: rgba(185, 43, 214, 0.9);
-}
 .social > div {
     margin-left: 10px;
     width: 40px;
@@ -108,11 +105,12 @@ main::after {
 }
 .social > div:hover {
     transform: translateY(-5px);
+    background-color: rgba(185, 43, 214, 0.9);
 }
 .btn:hover {
     color: #fff;
     background: rgba(185, 43, 214, 0.9);
-    box-shadow: 2px 2px 10px rgba(255, 255, 255, 0.5);
+    box-shadow: none;
 }
 
 @keyframes slideRight {
