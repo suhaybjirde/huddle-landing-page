@@ -15,7 +15,7 @@ This is a cool and simple project I did at [front end mentor](https://www.fronte
 ### *[live site](https://huddlelandingpagewithsuhayb.netlify.app/)* for this  project 
 
 
-I also did alot of other project like this at front mentor it's a cool site for practing your font-end skills.
+I also did alot of other project like this at front mentor it's a cool site for practicing your font-end skills.
 
 
 Here Is My front-end [Profile](https://www.frontendmentor.io/profile/suhaybjirde) Link To See Other project I Made Like this
